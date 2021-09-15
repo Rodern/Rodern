@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alain Kimbu
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Programming in multiple usefull languages 
+- 🌱 I’m currently learning Programming in multiple usefull languages like C#, JavaScript, C etc
 
 <!---
 Rodern/Rodern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
