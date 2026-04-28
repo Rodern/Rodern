@@ -5,7 +5,7 @@
 </p> -->
 
 <p align=”center”>
-  <img src="Copilot_20260409_222803 .jpg" alt=”my banner” >
+  <img src="Copilot_20260409_222803 .jpg" alt=”my banner” style="border-radius: 8px;" >
 </p>
 
 # Hi, I'm Alain Kimbu 👋
